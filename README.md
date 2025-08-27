@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGv-Lw_9Nk/BQcqin_nWRDeNU7d-GtYhQ/view?utm_content=DAGv-Lw_9Nk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h29e50e3122" alt="Compilador QA | Educational QA Website" />
+  <img src="Banner para Eventos (5).svg" alt="Compilador QA | Educational QA Website" />
 </p>
 
 ---
