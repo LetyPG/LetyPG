@@ -51,7 +51,7 @@ Passionate about continuous improvement, software quality, and building practice
 
 ## 🚀 Projects  
 - 🔗 **[Compilador QA](https://www.compiladorqa.tech)** — Educational website for QA Engineers.  
-- 🔗 [E2E Test Automation for e-commerce](#)  
+- 🔗 [E2E Test Automation for e-commerce](https://github.com/LetyPG/Automation-Framework-QA)  
 - 🔗 [CI/CD Pipeline with Jenkins & Docker](#)  
 - 🔗 [File Monitoring Feature (Linux & Windows)](#)  
 
