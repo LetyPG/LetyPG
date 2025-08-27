@@ -50,7 +50,7 @@ Passionate about continuous improvement, software quality, and building practice
 ---
 
 ## 🚀 Projects  
-- 🔗 **[https://www.compiladorqa.tech](#)** — Educational website for QA Engineers.  
+- 🔗 **[Compilador QA](https://www.compiladorqa.tech)** — Educational website for QA Engineers.  
 - 🔗 [E2E Test Automation for e-commerce](#)  
 - 🔗 [CI/CD Pipeline with Jenkins & Docker](#)  
 - 🔗 [File Monitoring Feature (Linux & Windows)](#)  
