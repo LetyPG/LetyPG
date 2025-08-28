@@ -8,10 +8,10 @@
 # 👩‍💻 Leticia Pérez Gainza  
 **QA Engineer | Manual & Automation**  
 
-## 👋 About Me  
+
+👋 About Me  
 
 ---
-
 ## 📝 Professional Profile  
 QA Engineer with solid experience in both manual and automated testing, applying QA strategies across Agile projects.  
 Proficient in diverse testing methodologies (BDD/TDD), frameworks, and CI/CD workflows.  
