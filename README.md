@@ -10,7 +10,7 @@
 
 
 👋 About Me  
-
+I am actaul worker on Wazuh Cibersecurity Technology as a QA Engineer
 ---
 ## 📝 Professional Profile  
 QA Engineer with solid experience in both manual and automated testing, applying QA strategies across Agile projects.  
