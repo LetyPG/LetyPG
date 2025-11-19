@@ -5,7 +5,7 @@
 
 ---
 
-# 👩‍💻 Leticia Pérez Gainza  
+# Leticia Pérez Gainza  
 **QA Engineer | Manual & Automation**  
 
 
@@ -18,11 +18,11 @@ Proficient in diverse testing methodologies (BDD/TDD), frameworks, and CI/CD wor
 Skilled in designing and executing functional, API, database, and non-functional tests (security, usability, performance).  
 Passionate about continuous improvement, software quality, and building practices that align testing with product architecture.  
 
-💡 I recently launched **[Compilador QA](#)**, an educational website designed to share QA knowledge and best practices with the community. This also have the intention to help QA professionals and students to learn and grow.  
+💡 I recently launched **[Compilador QA](#)**, an educational website designed to share QA knowledge and best practices with the community. This also has the intention to help QA professionals and students learn and grow.  
 
 ---
 
-## 🛠️ Technical Skills  
+## Technical Skills  
 - **Testing Types:** Smoke, Sanity, Exploratory, E2E, Regression, Integration, UAT, UI, Unit Testing with TDD.  
 - **Automation & Tools:** Selenium WebDriver, Pytest, Appium, JMeter, Jenkins Pipeline (Groovy), Grafana K6.  
 - **API Testing:** Postman (functional, security, performance, contract), API automation.  
@@ -35,8 +35,17 @@ Passionate about continuous improvement, software quality, and building practice
 
 ---
 
-## 💼 Professional Experience (Highlights)  
-- **QA Engineer | Startup Portfolio Forge** (2023–2025)  
+## Professional Experience (Highlights)  
+- **QA Engineer | Wzuh | (2025)**
+   - Deployment of cybersecurity technology
+   - Testing different features and capabilities
+   - Code refactor
+   - Code security patches over the automation framework
+   - Execution of different test types such as smoke, sanity, e2e, edge cases
+   - Report and issues documentation into a complete workflowlow
+   - Usage of Jenkins pipeline/vagrant/aws/ansible/github/git
+    
+- **QA Engineer Sr Manual-Automation| Startup Portfolio Forge** (2023–2025)  
   - Automated 80% of test cases, reducing regression testing time by 40%.  
   - Led QA team of 3, boosting collaboration and efficiency.  
   - Applied POM and functional programming for robust Selenium + Pytest frameworks.  
@@ -51,7 +60,7 @@ Passionate about continuous improvement, software quality, and building practice
 
 ## 🚀 Projects  
 - 🔗 **[Compilador QA](https://www.compiladorqa.tech)** — Educational website for QA Engineers.  
-- 🔗 [E2E Test Automation for e-commerce](https://github.com/LetyPG/Automation-Framework-QA)  
+- 🔗 [C-QA-Automation-Framework for e-commerce](https://github.com/LetyPG/Automation-Framework-QA) as an educative project  
 - 🔗 [CI/CD Pipeline with Jenkins & Docker](#)  
 - 🔗 [File Monitoring Feature (Linux & Windows)](#)  
 
@@ -63,9 +72,10 @@ Passionate about continuous improvement, software quality, and building practice
 ---
 
 ## 📫 Contact  
-- 💼 [LinkedIn](https://www.linkedin.com/in/leticia-gainza-b73733251)  
-- 📧 gainzaleticia@gmail.com  
-- 🌍 [GitHub](https://github.com/LetyPG)  
+- [LinkedIn](https://www.linkedin.com/in/leticia-gainza-b73733251)  
+- [email](gainzaleticia@gmail.com)
+- [website-compilador-qa](compiladorqa@gmail.com)
+-  [GitHub](https://github.com/LetyPG)  
 
 ---
 
