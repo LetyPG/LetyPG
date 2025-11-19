@@ -5,12 +5,11 @@
 
 ---
 
-# Leticia Pérez Gainza  
-**QA Engineer | Manual & Automation**  
+# Leticia Pérez Gainza - QA Engineer 
+## Manual & Automation | Web & Mobile 
 
-
-👋 About Me  
-I am actaul worker on Wazuh Cibersecurity Technology as a QA Engineer
+**About Me:** <br>
+I am an actual worker at Wazuh Cybersecurity Technology as a QA Engineer
 ---
 ## 📝 Professional Profile  
 QA Engineer with solid experience in both manual and automated testing, applying QA strategies across Agile projects.  
@@ -48,7 +47,8 @@ Passionate about continuous improvement, software quality, and building practice
 - **QA Engineer Sr Manual-Automation| Startup Portfolio Forge** (2023–2025)  
   - Automated 80% of test cases, reducing regression testing time by 40%.  
   - Led QA team of 3, boosting collaboration and efficiency.  
-  - Applied POM and functional programming for robust Selenium + Pytest frameworks.  
+  - Applied POM and functional programming for robust Selenium + Pytest frameworks.
+  - Integrate API test suites using Postman 
   - Integrated automation into Jenkins CI/CD pipelines with Dockerized environments.  
 
 - **QA Engineer | ETECSA** (2019–2022)  
