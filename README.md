@@ -9,15 +9,17 @@
 ## Manual & Automation | Web & Mobile 
 
 **About Me:** <br>
-I am an actual worker at Wazuh Cybersecurity Technology as a QA Engineer
 ---
-## 📝 Professional Profile  
+## Professional Profile  
 QA Engineer with solid experience in both manual and automated testing, applying QA strategies across Agile projects.  
 Proficient in diverse testing methodologies (BDD/TDD), frameworks, and CI/CD workflows.  
 Skilled in designing and executing functional, API, database, and non-functional tests (security, usability, performance).  
 Passionate about continuous improvement, software quality, and building practices that align testing with product architecture.  
 
-💡 I recently launched **[Compilador QA](#)**, an educational website designed to share QA knowledge and best practices with the community. This also has the intention to help QA professionals and students learn and grow.  
+I recently launched **[Compilador QA](https://www.compiladorqa.tech/)**, an educational website designed to share QA knowledge and best practices with the community. This also aims to help QA professionals and students learn and grow.  
+I also created **[siem_even_log_processor](https://github.com/LetyPG/siem_event_log_processor)** with the goal of maintaining a focus on good quality assurance practices, an application with system logic to process events received after a scan executed by a network monitoring SIEM. This program could connect to a SIEM and extend its capabilities to assist with observability and decision-making for security specialists. While maintaining the idea of ​​a functional application, the aim was to create a design that balanced component cohesion with minimal add-ons, using a Functional Paradigm, as well as the naming of variables and functions, all to facilitate scalability and maintenance in subsequent tasks such as debugging and refactoring.
+
+I am an actual worker at Wazuh Cybersecurity Technology as a QA Engineer.
 
 ---
 
@@ -26,7 +28,8 @@ Passionate about continuous improvement, software quality, and building practice
 - **Automation & Tools:** Selenium WebDriver, Pytest, Appium, JMeter, Jenkins Pipeline (Groovy), Grafana K6.  
 - **API Testing:** Postman (functional, security, performance, contract), API automation.  
 - **Languages:** Python, JavaScript, TypeScript, HTML, CSS.  
-- **Databases:** MySQL, DBeaver, HeidiSQL (SQL/SOQL, CRUD, validation).  
+- **Databases:** MySQL, DBeaver, HeidiSQL (SQL/SOQL, CRUD, validation).
+- **Virtual Environments Technologies**: Linux and Windows systems, using AWS, Vagrant, Docker, Virtual Box
 - **Methodologies:** Agile (Scrum, Kanban), BDD, TDD.  
 - **Test Management:** JIRA, XRay, Zephyr, Confluence, Markdown.  
 - **Cloud & Frameworks:** Docker, AWS (EC2), Flask, Salesforce CRM, WordPress CMS.  
@@ -40,8 +43,8 @@ Passionate about continuous improvement, software quality, and building practice
    - Testing different features and capabilities
    - Code refactor
    - Code security patches over the automation framework
-   - Execution of different test types such as smoke, sanity, e2e, edge cases
-   - Report and issues documentation into a complete workflowlow
+   - Execution of different test types such as smoke, sanity, e2e, and edge cases
+   - Report and issues documentation into a complete workflow
    - Usage of Jenkins pipeline/vagrant/aws/ansible/github/git
     
 - **QA Engineer Sr Manual-Automation| Startup Portfolio Forge** (2023–2025)  
@@ -58,11 +61,10 @@ Passionate about continuous improvement, software quality, and building practice
 
 ---
 
-## 🚀 Projects  
+## Projects  
 - 🔗 **[Compilador QA](https://www.compiladorqa.tech)** — Educational website for QA Engineers.  
-- 🔗 [C-QA-Automation-Framework for e-commerce](https://github.com/LetyPG/Automation-Framework-QA) as an educative project  
-- 🔗 [CI/CD Pipeline with Jenkins & Docker](#)  
-- 🔗 [File Monitoring Feature (Linux & Windows)](#)  
+- 🔗 [C-QA-Automation-Framework for e-commerce](https://github.com/LetyPG/Automation-Framework-QA) as an educational project to guide the build of an integral QA framework
+- 🔗 [File Monitoring Feature (Linux & Windows)](https://github.com/LetyPG/siem_event_log_processor)  as a demo practice focusing on QA best practices for system design 
 
 ---
 
