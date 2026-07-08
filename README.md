@@ -1,10 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="Banner para Eventos (5).svg" alt="Compilador QA | Educational QA Website" />
-</p>
-
----
-
 # Leticia Pérez Gainza - QA Engineer 
 ## Manual & Automation | Web & Mobile 
 
@@ -22,14 +15,14 @@ Hands-on experience applying multiple KPIs, including Defect Density (DD), MTTR,
 validated requirements, residual risk, and zero critical defects).
 
 Expertise in web, API, database, and microservices testing, with a strong focus on continuous improvement, security, usability, and performance.
-Experience implementing BDD/TDD methodologies and designing automation frameworks with Object-Oriented and Functional paradigms, by applying design principles and best coding practices.
+Experience implementing BDD/TDD methodologies and designing automation frameworks with Object-Oriented and Functional paradigms by applying design principles and best coding practices.
 I am currently focused on innovation and the systematization of AI adoption practices in operational and business management.
 
 
 ---
 
 ## Technical Skills  
-- [**ISTQB® Cerification**](https://www.credly.com/badges/093ac3b8-80c8-4d41-bbc2-6aedb32e84ef/linked_in_profile) Sr Manual & Automation 
+- [**ISTQB® Cerification**](https://www.credly.com/badges/093ac3b8-80c8-4d41-bbc2-6aedb32e84ef/linked_in_profile) Sr Manual & Automation . [ISTQB official Register](https://scr.istqb.org/)
 - **Testing Types:** Smoke, Sanity, Exploratory, E2E, Regression, Integration, UAT, UI, Unit Testing with TDD.  
 - **Automation & Tools:** Selenium WebDriver, Pytest, Playwright, Cypress, Appium, JMeter, Jenkins Pipeline (Groovy), Grafana K6.  
 - **API Testing:** Postman (functional, security, performance, contract), API automation.
@@ -41,6 +34,16 @@ I am currently focused on innovation and the systematization of AI adoption prac
 - **Test Management:** JIRA, XRay, Zephyr, Confluence, Markdown.  
 - **Cloud & Frameworks:** Docker, AWS (EC2), Flask, Salesforce CRM, WordPress CMS.  
 - **Quality Standards:** ISO 9001, ISO 27001, ISO 25000.  
+
+---
+## Community & Education
+
+* Educational content creator on LinkedIn (Software QA, Quality Engineering, AI Quality).
+* Open-source contributor focused on QA frameworks and engineering practices.
+* Speaker at **Abstracta Tech Talks**.
+* Workshop instructor (3-session program) at **TestandoYa Academy**.
+* Speaker at **QAConf 2026**.
+* Promoter of collaborative learning and evidence-based Quality Engineering.
 
 ---
 
@@ -81,7 +84,12 @@ I am currently focused on innovation and the systematization of AI adoption prac
 ---
 
 ## Projects  
-- 🔗 **[Compilador QA](https://www.compiladorqa.tech)** — Educational website for QA Engineers to contribute to developing technology acquisition knowledge as context-based for software qa engineers. 
+- 🔗 **[Compilador QA](https://www.compiladorqa.tech)** — Educational website for QA Engineers to contribute to developing technology acquisition knowledge as context-based for software qa engineers.
+
+<p align="center">
+  <img src="compilator.png" alt="Compilador QA | Educational QA Website" />
+</p>
+
 - 🔗 [C-QA-Automation-Framework for e-commerce](https://github.com/LetyPG/Automation-Framework-QA) as an educational project to guide the build of an integral QA framework.
 - 🔗 [Skill-Quality-Ansurance-Framework-SQAF](https://github.com/LetyPG/Skill-Quality-Assurance-Framework-SQAF) is an agentic framework for deterministic AI Skill quality assessment. It orchestrates specialized reviewers to evaluate design, execution, and overall readiness through evidence-based assessments. SQAF introduces a shift-left QA approach, reducing iteration effort, scaling costs, and improving skill quality before deployment.
 - 🔗 [File Monitoring Feature (Linux & Windows)](https://github.com/LetyPG/siem_event_log_processor)  as a demo practice focusing on QA best practices for system design.  An application with system logic to process events received after a scan executed by a network monitoring SIEM. This program could connect to a SIEM and extend its capabilities to assist with observability and decision-making for security specialists. While maintaining the idea of ​​a functional application, the aim was to create a design that balanced component cohesion with minimal add-ons, using a Functional Paradigm, as well as the naming of variables and functions, all to facilitate scalability and maintenance in subsequent tasks such as debugging and refactoring.
