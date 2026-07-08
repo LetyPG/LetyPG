@@ -97,7 +97,9 @@ I am currently focused on innovation and the systematization of AI adoption prac
 ---
 
 ## 📊 GitHub Stats  
-![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LetyPG&show_icons=true&theme=radical)  
+
+![Leticia's GitHub stats](https://github-stats-extended.vercel.app/api?username=LetyPG&show_icons=true&theme=dark)
+
 
 ---
 
