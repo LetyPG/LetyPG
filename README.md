@@ -84,17 +84,18 @@ I am currently focused on innovation and the systematization of AI adoption prac
 ---
 
 ## Projects  
-- 🔗 **[Compilador QA](https://www.compiladorqa.tech)** — Educational website for QA Engineers to contribute to developing technology acquisition knowledge as context-based for software qa engineers.
+
+|Projects Quick Reference| Short Description |
+|------------------------|-------------------|
+| 🔗 **[Compilador QA](https://www.compiladorqa.tech)** | Educational website for QA Engineers to contribute to developing technology acquisition knowledge as context-based for software qa engineers.|
+| 🔗 **[C-QA-Automation-Framework for e-commerce](https://github.com/LetyPG/Automation-Framework-QA)**|As an educational project to guide the build of an integral QA framework.|
+| 🔗 **[Skill-Quality-Ansurance-Framework-SQAF](https://github.com/LetyPG/Skill-Quality-Assurance-Framework-SQAF)**| Is an agentic framework for deterministic AI Skill quality assessment. It orchestrates specialized reviewers to evaluate design, execution, and overall readiness through evidence-based assessments. SQAF introduces a shift-left QA approach, reducing iteration effort, scaling costs, and improving skill quality before deployment.|
+| 🔗 **[PDF-MD-Converter-Engine](https://github.com/LetyPG/pdf-md-converter-engine)**| Is a local utility that converts PDF documents into high-fidelity Markdown assets — deterministically, privately, and without any cloud dependency or LLM at runtime.|
+| 🔗 **[File Monitoring Feature (Linux & Windows)](https://github.com/LetyPG/siem_event_log_processor)** | As a demo practice focusing on QA best practices for system design.  An application with system logic to process events received after a scan executed by a network monitoring SIEM. This program could connect to a SIEM and extend its capabilities to assist with observability and decision-making for security specialists. While maintaining the idea of ​​a functional application, the aim was to create a design that balanced component cohesion with minimal add-ons, using a Functional Paradigm, as well as the naming of variables and functions, all to facilitate scalability and maintenance in subsequent tasks such as debugging and refactoring.|
 
 <p align="center">
   <img src="compilator.png" alt="Compilador QA | Educational QA Website" />
-</p>
-
-- 🔗 [C-QA-Automation-Framework for e-commerce](https://github.com/LetyPG/Automation-Framework-QA) as an educational project to guide the build of an integral QA framework.
-- 🔗 [Skill-Quality-Ansurance-Framework-SQAF](https://github.com/LetyPG/Skill-Quality-Assurance-Framework-SQAF) is an agentic framework for deterministic AI Skill quality assessment. It orchestrates specialized reviewers to evaluate design, execution, and overall readiness through evidence-based assessments. SQAF introduces a shift-left QA approach, reducing iteration effort, scaling costs, and improving skill quality before deployment.
-- 🔗 [PDF-MD-Converter-Engine](https://github.com/LetyPG/pdf-md-converter-engine) is a local utility that converts PDF documents into high-fidelity Markdown assets — deterministically, privately, and without any cloud dependency or LLM at runtime.
-- 🔗 [File Monitoring Feature (Linux & Windows)](https://github.com/LetyPG/siem_event_log_processor)  as a demo practice focusing on QA best practices for system design.  An application with system logic to process events received after a scan executed by a network monitoring SIEM. This program could connect to a SIEM and extend its capabilities to assist with observability and decision-making for security specialists. While maintaining the idea of ​​a functional application, the aim was to create a design that balanced component cohesion with minimal add-ons, using a Functional Paradigm, as well as the naming of variables and functions, all to facilitate scalability and maintenance in subsequent tasks such as debugging and refactoring.
-
+</p>|
 ---
 
 ## 📊 GitHub Stats  
